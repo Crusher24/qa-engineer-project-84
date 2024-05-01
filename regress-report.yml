@@ -2,11 +2,11 @@
 test-cases:
   - summary: |
       Смена языка на сайте
-    status: fail 
+    status: fail
 
   - summary: |
       Выбор следующей страницы показывает новых производителей
-    status: pass 
+    status: pass
 
 bugreports:
   - summary: |
@@ -30,7 +30,7 @@ test-cases:
   - summary: |
       Выбор любого наименования товара для заказа
     status: pass
-    
+
 bugreports:
   - summary: |
       Кнопка отчистки корзины неисправна
