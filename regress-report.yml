@@ -1,8 +1,12 @@
 ---
 test-cases:
   - summary: |
-      Регистрация нового аккаунта
-    status: fail
+      Смена языка на сайте
+    status: fail 
+
+  - summary: |
+      Выбор следующей страницы показывает новых производителей
+    status: pass 
 
 bugreports:
   - summary: |
@@ -17,6 +21,15 @@ bugreports:
       Если после выбора русского языка нажать на ссылку магазин, язык не изменится
     actual-result: |
       Язык изменился на английский
+      ---
+test-cases:
+  - summary: |
+      Проверка работы выбора категорий
+    status: pass
+
+  - summary: |
+      Выбор любого наименования товара для заказа
+    status: pass
     
 bugreports:
   - summary: |
