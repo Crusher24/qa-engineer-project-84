@@ -1,0 +1,8 @@
+---
+- summary: |
+    Оформление заказа
+  status: fail
+
+- summary: |
+    Выбор товара
+  status: pass
