@@ -2,7 +2,7 @@
 - summary: |
     Проверка работы выбора категорий
   requirement: |
-    При нажатии категории Apple появляется только этот товар 
+    Открываем сайт https://hexlet-products-store.vercel.app/ 
   prerequisites: |
     Открыта категория товаров Apple
   test-data: |
