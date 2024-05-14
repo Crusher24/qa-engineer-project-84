@@ -1,16 +1,48 @@
 ---
 - summary: |
-    Проверка работы выбора категорий
-  status: pass
+      Смена языка на сайте
+    status: pass
 
 - summary: |
-    Выбор любого наименования товара для заказа
-  status: fail
-  
-- summary: |
-    Смена языка на сайте
-  status: pass
+      Выбор следующей страницы показывает новых производителей
+    status: pass
 
 - summary: |
-    Выбор следующей страницы показывает новых производителей
-  status: pass
+      Проверка работы выбора категорий
+    status: pass
+
+- summary: |
+      Оформление заказа
+    status: fail
+
+- summary: |
+      Проверка описания товара
+    status: pass
+
+- summary: |
+      Фильтрация по брендам
+    status: pass
+
+- summary: |
+      Фильтр по цене
+    status: pass
+
+- summary: |
+      Добавление в корзину
+    status: pass
+
+- summary: |
+      Итоговая сумма позиций, добавленных в корзину рассчитана правильно
+    status: pass
+
+- summary: |
+      Проверка поиска
+    status: pass
+
+- summary: |
+      Проверка карточки товара
+    status: pass
+
+- summary: |
+      Проверка мобильной версии
+    status: fail
