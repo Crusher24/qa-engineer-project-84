@@ -1,47 +1,47 @@
 ---
 - summary: |
       Смена языка на сайте
-    status: pass
+  status: pass
 
 - summary: |
       Выбор следующей страницы показывает новых производителей
-    status: pass
+  status: pass
 
 - summary: |
       Проверка работы выбора категорий
-    status: pass
+  status: pass
 
 - summary: |
       Оформление заказа
-    status: fail
+  status: fail
 
 - summary: |
       Проверка описания товара
-    status: pass
+  status: pass
 
 - summary: |
       Фильтрация по брендам
-    status: pass
+  status: pass
 
 - summary: |
       Фильтр по цене
-    status: pass
+  status: pass
 
 - summary: |
       Добавление в корзину
-    status: pass
+  status: pass
 
 - summary: |
       Итоговая сумма позиций, добавленных в корзину рассчитана правильно
-    status: pass
+  status: pass
 
 - summary: |
       Проверка поиска
-    status: pass
+  status: pass
 
 - summary: |
       Проверка карточки товара
-    status: pass
+  status: pass
 
 - summary: |
       Проверка мобильной версии
